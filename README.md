@@ -15,7 +15,6 @@ CUDA kernel 优化实验仓库。当前以 `float` 数组规约求和为例，�
 | 路径 | 内容 |
 | --- | --- |
 | [GPU_HARDWARE.md](GPU_HARDWARE.md) | CUDA 环境与 GPU 硬件参数 |
-| [query.cu](query.cu) | 硬件信息查询程序 |
 | [kernels/reduce_sum/reduce_sum.cu](kernels/reduce_sum/reduce_sum.cu) | v0–v7 实现及 CPU 参考校验 |
 | [kernels/reduce_sum/REDUCE_SUM_OPTIMIZATION.md](kernels/reduce_sum/REDUCE_SUM_OPTIMIZATION.md) | 优化过程、性能指标与复测分析 |
 
